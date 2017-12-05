@@ -1,0 +1,13 @@
+.background {
+  background-color: #CDA5F3;
+  border: 2px solid black;
+  border-radius: 5px;
+  text-align: center;
+}
+
+
+.col2border, .col-sm-3 {
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 5px;
+}
