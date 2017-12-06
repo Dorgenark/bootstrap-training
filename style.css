@@ -1,4 +1,4 @@
-.background {
+.container {
   background-color: #CDA5F3;
   border: 2px solid black;
   border-radius: 5px;
@@ -6,8 +6,11 @@
 }
 
 
-.col2border, .col-sm-3 {
+[class*="col"] {
   border: 2px solid black;
   border-radius: 5px;
-  padding: 5px;
+}
+
+.color-grey {
+  background-color: lightgrey;
 }
